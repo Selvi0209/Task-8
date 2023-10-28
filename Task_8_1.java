@@ -2,10 +2,13 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         
-        int a = 8;
-        int b = 9;
-        int c = 7;
-        int d = 6;
+        Scanner obj = new Scanner(System.in);
+        
+        int a = obj.nextInt();
+        int b = obj.nextInt();
+        int c = obj.nextInt();
+        int d = obj.nextInt();
+        
         
         int sumAandB = a+b;
         int sumCandD = c+d;
