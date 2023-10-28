@@ -7,8 +7,7 @@ public class Main {
         int a = obj.nextInt();
         int b = obj.nextInt();
         int c = obj.nextInt();
-        int d = obj.nextInt();
-        
+        int d = obj.nextInt(); 
         
         int sumAandB = a+b;
         int sumCandD = c+d;
@@ -16,9 +15,8 @@ public class Main {
         if(sumAandB > sumCandD) {
             System.out.println("The sum of a and b is greaterthan c and d");
         } else {
-             System.out.println("The sum of a and b is not greaterthan c and d");
-        }
-        
+            System.out.println("The sum of a and b is not greaterthan c and d");
+        } 
         
     }
 }
