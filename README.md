@@ -18,3 +18,6 @@
  
 * Write a program to check if a number is prime or not.
   ## File Name : Task_8_5.java
+ 
+* Write a program to print the factorial of a given number. For Ex: 5!=120 
+  ## File Name : Task_8_6.java
