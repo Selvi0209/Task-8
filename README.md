@@ -28,3 +28,6 @@
 * Write a program To print "Welcome to Guvi" 10 times.
   ## File Name : Task_8_8.java
  
+* Write a program to check whether the person Is a senior citizen or not.
+  ## File Name : Task_8_9.java
+ 
