@@ -6,5 +6,5 @@
   ## File Name : Task_8_1.java
   
   
-  * Have a variable store an integer. Create an if statement to find out if it's an even number.Hint: Use operator %.
+* Have a variable store an integer. Create an if statement to find out if it's an even number.Hint: Use operator %.
   ## File Name : Task_8_2.java
